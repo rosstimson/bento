@@ -3,3 +3,5 @@ bin/
 iso/
 *.box
 virtualfloppy.vfd
+output-virtualbox/
+packer_cache/
